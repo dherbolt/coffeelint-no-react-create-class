@@ -1,0 +1,27 @@
+{
+  "name": "no-react-create-class",
+  "version": "1.0.0",
+  "description": "CoffeeLint rule no-react-create-class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dherbolt/no-react-create-class.git"
+  },
+  "keywords": [
+    "coffelint",
+    "react",
+    "createClass"
+  ],
+  "author": "Daniel Herbolt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dherbolt/no-react-create-class/issues"
+  },
+  "homepage": "https://github.com/dherbolt/no-react-create-class#readme",
+  "dependencies": {
+    "coffee-script": "^1.12.7"
+  }
+}
