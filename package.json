@@ -1,5 +1,5 @@
 {
-  "name": "no-react-create-class",
+  "name": "coffeelint-no-react-create-class",
   "version": "1.0.0",
   "description": "CoffeeLint rule no-react-create-class",
   "main": "index.js",
